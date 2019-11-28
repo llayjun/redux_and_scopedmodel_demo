@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return ScopedModel(
       model: countModel,
       child: MaterialApp(
-        title: 'Flutter Demo',
+        title: 'Flutter Demo11',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
