@@ -1,16 +1,14 @@
 # flutter_app
 
-A new Flutter application.
+Redux和ScopedModel的状态管理的demo
 
-## Getting Started
+## 参考
+ScopedModel参考
+- [github](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/scoped_demo)
+- [pub](https://pub.dev/packages/scoped_model#-readme-tab-)
+- [博客](https://juejin.im/post/5b97fa0d5188255c5546dcf8)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Redux参考
+- [博客](https://www.jianshu.com/p/68596599750d)
+- [博客](https://segmentfault.com/a/1190000015579633)
+- [pub](https://pub.flutter-io.cn/packages/flutter_redux)
