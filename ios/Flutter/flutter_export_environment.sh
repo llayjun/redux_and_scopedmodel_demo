@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/millet/ide/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/millet/Desktop/flutter_app/flutter_app"
-export "FLUTTER_TARGET=/Users/millet/Desktop/flutter_app/flutter_app/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/millet/Desktop/study_project/redux_and_scopedmodel_demo"
+export "FLUTTER_TARGET=/Users/millet/Desktop/study_project/redux_and_scopedmodel_demo/lib/main_provider.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "FLUTTER_FRAMEWORK_DIR=/Users/millet/ide/flutter/bin/cache/artifacts/engine/ios"

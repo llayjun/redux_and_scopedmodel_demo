@@ -12,6 +12,7 @@ class SecondPageRedux extends StatefulWidget {
 class _SecondPageReduxState extends State<SecondPageRedux> {
   @override
   Widget build(BuildContext context) {
+    print('Redux的build');
     return StoreConnector<CountState,int>(builder: (context,count){
       return Scaffold(
         appBar: AppBar(

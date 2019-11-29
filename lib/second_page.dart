@@ -12,6 +12,7 @@ class SecondPage extends StatefulWidget {
 class _SecondPageState extends State<SecondPage> {
   @override
   Widget build(BuildContext context) {
+    print('ScopedModel的build');// 点击按钮该界面不会重复调用build
     return ScopedModelDescendant<CountModel>(
       builder: (context, child, model) {
         return Scaffold(

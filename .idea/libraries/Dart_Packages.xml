@@ -86,6 +86,13 @@
             </list>
           </value>
         </entry>
+        <entry key="provider">
+          <value>
+            <list>
+              <option value="$USER_HOME$/ide/flutter/.pub-cache/hosted/pub.flutter-io.cn/provider-3.2.0/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="quiver">
           <value>
             <list>
@@ -183,6 +190,7 @@
       <root url="file://$USER_HOME$/ide/flutter/.pub-cache/hosted/pub.flutter-io.cn/meta-1.1.7/lib" />
       <root url="file://$USER_HOME$/ide/flutter/.pub-cache/hosted/pub.flutter-io.cn/path-1.6.4/lib" />
       <root url="file://$USER_HOME$/ide/flutter/.pub-cache/hosted/pub.flutter-io.cn/pedantic-1.8.0+1/lib" />
+      <root url="file://$USER_HOME$/ide/flutter/.pub-cache/hosted/pub.flutter-io.cn/provider-3.2.0/lib" />
       <root url="file://$USER_HOME$/ide/flutter/.pub-cache/hosted/pub.flutter-io.cn/quiver-2.0.5/lib" />
       <root url="file://$USER_HOME$/ide/flutter/.pub-cache/hosted/pub.flutter-io.cn/redux-3.0.0/lib" />
       <root url="file://$USER_HOME$/ide/flutter/.pub-cache/hosted/pub.flutter-io.cn/scoped_model-1.0.1/lib" />

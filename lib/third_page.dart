@@ -10,6 +10,8 @@ class ThirdPage extends StatefulWidget {
 class _ThirdPageState extends State<ThirdPage> {
   @override
   Widget build(BuildContext context) {
+    print('ScopedModel的build');// 点击按钮该界面会重复调用build
+
     final countModel = CountModel.of(context);
 
     final count = CountModel.of(context).count;

@@ -11,6 +11,7 @@ class ThirdPageRedux extends StatefulWidget {
 class _ThirdPageReduxState extends State<ThirdPageRedux> {
   @override
   Widget build(BuildContext context) {
+    print('redux的build');
     /// 使用StoreBuilder
     return StoreBuilder<CountState>(builder: (context, count) {
       return Scaffold(

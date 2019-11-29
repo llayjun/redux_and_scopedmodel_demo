@@ -1,6 +1,6 @@
 # flutter_app
 
-Redux和ScopedModel的状态管理的demo
+Provider和Redux和ScopedModel的状态管理的demo
 
 ## 参考
 ScopedModel参考
@@ -12,3 +12,5 @@ Redux参考
 - [博客](https://www.jianshu.com/p/68596599750d)
 - [博客](https://segmentfault.com/a/1190000015579633)
 - [pub](https://pub.flutter-io.cn/packages/flutter_redux)
+
+Provider
